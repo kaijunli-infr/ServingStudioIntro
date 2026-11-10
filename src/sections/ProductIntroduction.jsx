@@ -11,7 +11,7 @@ const productParts = [
         "Models",
         "Dense and mixture-of-experts architectures in BF16, FP8, and NVFP4",
       ],
-      ["Deployments", "H200 and B200 GPUs with TP, EP, DP, and PP"],
+      ["Deployments", "H200, B200, and GB300 GPUs with TP, EP, DP, and PP"],
       [
         "Execution",
         "Unified serving, prefill–decode or attention–FFN disaggregation, and speculative decoding",

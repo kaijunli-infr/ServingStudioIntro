@@ -24,7 +24,7 @@ const coverage = [
     ["Unified", "Prefill / decode", "Attention / FFN", "Speculative decoding"],
   ],
   ["Frameworks", ["vLLM", "SGLang"]],
-  ["Hardware", ["H200", "B200"]],
+  ["Hardware", ["H200", "B200", "GB300"]],
 ];
 
 function CoverageDirectory() {
