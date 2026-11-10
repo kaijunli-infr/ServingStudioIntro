@@ -34,6 +34,7 @@ const COLORS = {
   },
   gpu: {
     B200: "#8fd14f",
+    GB300: "#4fd1c5",
     H200: "#e58cf0",
   },
 };
